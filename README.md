@@ -2,6 +2,22 @@
 
 Windows bilgisayarda kurulum gerektirmeden açılabilen ilk deneme sürümü.
 
+## iPhone ve telefonda oynama
+
+Safari'den açılabilmesi için GitHub Pages üzerinden yayınlanmaya hazır web sürümü `docs/` klasöründedir.
+
+Depo sahibi için bir kez yapılacak ayar:
+
+1. [GitHub Pages ayarlarını aç](https://github.com/cagkannn/Blockout/settings/pages).
+2. **Build and deployment** altında **Source** seçeneğini **Deploy from a branch** yap.
+3. **Branch** bölümünde **main**, klasör olarak **/docs** seç ve **Save** düğmesine bas.
+4. GitHub'ın sayfayı hazırlaması genellikle birkaç dakika sürer. Ayarlarda görünen **Visit site** düğmesiyle oyunu aç.
+5. Açılan web adresini iPhone'da Safari'ye yapıştır. **Bölümü başlat** düğmesine bas ve blokları parmağınla sürükle.
+
+İstersen Safari'de **Paylaş** → **Ana Ekrana Ekle** ile oyun için bir simge oluşturabilirsin. Bu sürüm için App Store kurulumu gerekmez. Web sayfasının ilk açılışında internet bağlantısı gerekir.
+
+**Durum:** Web dosyaları hazırdır. GitHub Pages'in depo ayarlarından etkinleştirildiği ve gerçek iPhone'da açıldığı henüz doğrulanmamıştır.
+
 ## Oyunu indir ve aç
 
 1. **[Oyunu ZIP olarak indir](https://github.com/cagkannn/Blockout/archive/refs/heads/main.zip)** bağlantısına tıkla.
