@@ -16,7 +16,7 @@ Depo sahibi için bir kez yapılacak ayar:
 
 İstersen Safari'de **Paylaş** → **Ana Ekrana Ekle** ile oyun için bir simge oluşturabilirsin. Bu sürüm için App Store kurulumu gerekmez. Web sayfasının ilk açılışında internet bağlantısı gerekir.
 
-**Durum:** Web dosyaları hazırdır. GitHub Pages'in depo ayarlarından etkinleştirildiği ve gerçek iPhone'da açıldığı henüz doğrulanmamıştır.
+**Durum:** GitHub Pages yayını etkindir. iPhone’da dokunma kesildiğinde seçimin takılı kalmasına karşı düzeltme eklendi. En güncel sürümü açmak için Safari’de oyun sayfasını yeniden aç.
 
 ## Oyunu indir ve aç
 
